@@ -20,6 +20,7 @@ php artisan migrate
 
 php artisan db:seed
 ```
+After you can launch http://127.0.0.1:8000/login
 
 ----------------------------------------------------------------
 
