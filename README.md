@@ -1,5 +1,12 @@
 # USER APP on Laravel
 
+## Requirments to use
+
+To use on Mamp, you must re-configure the BDD Conifugration on .env ()
+
+Atcually DB_PORT=8889
+Because on my mamp MySQL port is 8889
+
 ## Git commands
 
 - Create a new Git repository
