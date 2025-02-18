@@ -47,7 +47,7 @@ password: password123
 
 - **Models** are created to represent entities of the BDD
   
-- **Views** are created to display data and interfaces for users
+- **Views** are created to display data and interfaces for users (AI used to improve the visuals of views
 
 - **Controllers** are created to contains logical and to control interaction between model and view
   
